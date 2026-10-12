@@ -520,4 +520,4 @@ class TreinoTabuada:
 if __name__ == "__main__":
     janela = tk.Tk()
     app = TreinoTabuada(janela)
-    janela.mainloop()''
+    janela.mainloop()
